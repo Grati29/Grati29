@@ -19,7 +19,7 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
 -  3DPUB - **Robot Process Automation**;   **Neural Networks for Image Processing**<br><br>
 
 ## ⚡Projects I've Worked On ⚡
-- **C Programming: Data Structures**  
+- **[C Programming: Data Structures](https://github.com/Grati29/data-structures-c)**   
   Developed various data structures such as *linked lists*, *stacks*, and *queues* in C, focusing on efficient *memory management* and *algorithmic thinking*.
 
 - **C++: Object-Oriented Programming (OOP)**  
