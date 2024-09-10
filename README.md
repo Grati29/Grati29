@@ -25,7 +25,7 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
 - **C++: Object-Oriented Programming (OOP)**  
   Applied the principles of *encapsulation*, *inheritance*, and *polymorphism* in C++ to build robust software solutions.
 
-- **MatLab: Neural Networks**  
+- **MatLab: Neural Networks - Binary Classification**  
   Trained a neural network to detect Parkinson's patients using a specialized medical database.
 
 - **JavaScript: Pixel-Based Image Processing**  
