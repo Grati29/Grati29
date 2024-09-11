@@ -23,7 +23,7 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
   Developed various data structures such as *linked lists*, *stacks*, and *queues* in C, focusing on efficient *memory management* and *algorithmic thinking*.
 
 - **C++: Object-Oriented Programming (OOP)**  
-  Applied the principles of *encapsulation*, *inheritance*, and *polymorphism* in C++ to build robust software solutions.
+  Applied the principles of *encapsulation*, *inheritance*, and *polymorphism* in C++.
 
 - **[MatLab: Neural Networks - Binary Classification](https://github.com/Grati29/neural-networks)**  
   Trained a neural network to detect Parkinson's patients using a specialized medical database.
