@@ -34,7 +34,7 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
 - **[MatLab: Optimization Problem](https://github.com/Grati29/optimization-project)**  
   Tackled an optimization problem by employing techniques like *gradient projection* and *the barrier method*, emphasizing strong mathematical modeling.
 
-- **UiPath Studio: Price Books Tracker**  
+- **[UiPath Studio: Price Books Tracker](https://github.com/Grati29/book_price_tracker)**  
   Automated the monitoring of product prices, alerting users to discounts or price drops via email.
 <!---
 Grati29/Grati29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
