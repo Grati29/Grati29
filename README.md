@@ -28,7 +28,7 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
 - **[MatLab: Neural Networks - Binary Classification](https://github.com/Grati29/neural-networks)**  
   Trained a neural network to detect Parkinson's patients using a specialized medical database.
 
-- **JavaScript: Pixel-Based Image Processing**  
+- **[JavaScript: Pixel-Based Image Processing](https://github.com/Grati29/pixel-image-processing)**  
   Implemented image processing techniques at *the pixel level*, enabling real-time image manipulation in the browser.
 
 - **MatLab: Optimization Problem**  
