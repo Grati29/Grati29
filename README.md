@@ -34,9 +34,6 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
 - **MatLab: Optimization Problem**  
   Tackled an optimization problem by employing techniques like *gradient projection* and *the barrier method*, emphasizing strong mathematical modeling.
 
-- **HTML + CSS: Personal Portfolio Website**  
-  Designed and built a responsive portfolio website to effectively showcase my skills and projects.
-
 - **UiPath Studio: Price Books Tracker**  
   Automated the monitoring of product prices, alerting users to discounts or price drops via email.
 <!---
