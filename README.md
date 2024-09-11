@@ -19,19 +19,19 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
 -  3DPUB - **Robot Process Automation**;   **Neural Networks for Image Processing**<br><br>
 
 ## ⚡Projects I've Worked On ⚡
-- **[C Programming: Data Structures](https://github.com/Grati29/data-structures-c)**   
-  Developed various data structures such as *linked lists*, *stacks*, and *queues* in C, focusing on efficient *memory management* and *algorithmic thinking*.
+- **[C Programming: Data Structures - Lan Party](https://github.com/Grati29/data-structures-c)**   
+  Developed various data structures such as *linked lists*, *stacks*, *queues* and *binary trees* in C, focusing on efficient *memory management* and *algorithmic thinking*.
 
-- **C++: Object-Oriented Programming (OOP)**  
+- **[C++: Object-Oriented Programming - Auto Workshop Management System](https://github.com/Grati29/auto_workshop_management_system)**  
   Applied the principles of *encapsulation*, *inheritance*, and *polymorphism* in C++.
 
-- **[MatLab: Neural Networks - Binary Classification](https://github.com/Grati29/neural-networks)**  
+- **[MatLab: Neural Networks - Binary Classification - Parkinson's Disease](https://github.com/Grati29/neural-networks)**  
   Trained a neural network to detect Parkinson's patients using a specialized medical database.
 
 - **[JavaScript: Pixel-Based Image Processing](https://github.com/Grati29/pixel-image-processing)**  
   Implemented image processing techniques at *the pixel level*, enabling real-time image manipulation in the browser.
 
-- **[MatLab: Optimization Problem](https://github.com/Grati29/optimization-project)**  
+- **[MatLab: Optimization Problem - Minimizing the Cost of an Electric Line](https://github.com/Grati29/optimization-project)**  
   Tackled an optimization problem by employing techniques like *gradient projection* and *the barrier method*, emphasizing strong mathematical modeling.
 
 - **[UiPath Studio: Price Books Tracker](https://github.com/Grati29/book_price_tracker)**  
