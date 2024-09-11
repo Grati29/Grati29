@@ -31,7 +31,7 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
 - **[JavaScript: Pixel-Based Image Processing](https://github.com/Grati29/pixel-image-processing)**  
   Implemented image processing techniques at *the pixel level*, enabling real-time image manipulation in the browser.
 
-- **MatLab: Optimization Problem**  
+- **[MatLab: Optimization Problem](https://github.com/Grati29/optimization-project)**  
   Tackled an optimization problem by employing techniques like *gradient projection* and *the barrier method*, emphasizing strong mathematical modeling.
 
 - **UiPath Studio: Price Books Tracker**  
