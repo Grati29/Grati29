@@ -10,7 +10,7 @@ I’m a third-year student, enthusiastic about diving into new challenges and ex
 - **Automation Tools:** UiPath Studio
 - **Scripting:** Bash
 - **Design and CAD:** Autodesk Suite
-- **Version Control:** Git, GitHub<br><br>
+- **Version Control:** Git<br><br>
 
 ## ✨ Recent Experience ✨ 3DPUB Summer School
   Organized by Politehnica University of Bucharest in partnership with Gameloft Romania, the summer school was all about game development, machine learning and automation tools.
